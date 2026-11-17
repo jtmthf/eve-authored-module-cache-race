@@ -1,0 +1,14 @@
+{
+  "name": "eve-authored-module-cache-race",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "ai": "^7.0.172",
+    "eve": "1.0.2",
+    "zod": "^4.0.0"
+  }
+}
